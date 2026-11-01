@@ -13,3 +13,9 @@ __pycache__/
 # Ambientes virtuais (se houver)
 venv/
 .venv/
+
+# Dados locais e arquivos gerados
+config.json
+*.exe
+*.log
+logs/
