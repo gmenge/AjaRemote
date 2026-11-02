@@ -19,3 +19,6 @@ config.json
 *.exe
 *.log
 logs/
+
+# Testes
+.pytest_cache/
